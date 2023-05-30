@@ -1,7 +1,7 @@
-# Social Media and Web Analytics: Computing Lecture 5
+# Social Media and Web Analytics: Network Statistics and Community Detection
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-[![lifecycle](https://img.shields.io/badge/version-2022-red.svg)]()
+[![lifecycle](https://img.shields.io/badge/version-2023-red.svg)]()
 
 ## Learning Objectives
 
@@ -56,6 +56,7 @@ This lecture makes use of additional `R` packages:
 * ggraph
 * tibble
 * igraph
+* graphlayouts
 
 
 Install these packages before coming to class.
@@ -63,9 +64,9 @@ Install these packages before coming to class.
 ## Meta-Information
 
 * Module Maintainer: Lachlan Deer (`@lachlandeer`)
-* Course: [Social Media and Web Analytics](https://tisem-digital-marketing.github.io/2022-smwa)
+* Course: [Social Media and Web Analytics](https://tisem-digital-marketing.github.io/2023-smwa)
 * Institute: Dept of Marketing, Tilburg University
-* Current Version: [2022 edition](https://tisem-digital-marketing.github.io/2022-smwa)
+* Current Version: [2023 edition](https://tisem-digital-marketing.github.io/2023-smwa)
 
 ## License
 
@@ -73,7 +74,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Suggested Citation
 
-Deer, Lachlan. 2022. Social Media and Web Analytics: Computing Lecture 5 - Network Descriptives and Community Detection. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks"
+Deer, Lachlan. 2023. Social Media and Web Analytics: Computing Lecture - Network Descriptives and Community Detection. Tilburg University. url = "https://github.com/tisem-digital-marketing/smwa-computing-lecture-networks"
 
 ```{r, engine='out', eval = FALSE}
 @misc{smwa-compllecture03-2022,
